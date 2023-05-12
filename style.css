@@ -1,0 +1,83 @@
+/*body {*/
+/*  background-color: #F8F8F8;*/
+/*  font-family: Arial, sans-serif;*/
+/*}*/
+
+/*.countdown-timer {*/
+/*  position: absolute;*/
+/*  top: 50%;*/
+/*  left: 50%;*/
+/*  transform: translate(-50%, -50%);*/
+/*  text-align: center;*/
+/*}*/
+
+/*.countdown-clock {*/
+/*  display: inline-block;*/
+/*  background-color: #FFF;*/
+/*  padding: 20px;*/
+/*  border-radius: 10px;*/
+/*  box-shadow: 0px 0px 10px #BBB;*/
+/*}*/
+
+/*.countdown-clock span {*/
+/*  font-size: 40px;*/
+/*  font-weight: bold;*/
+/*  padding: 10px;*/
+/*  margin: 10px;*/
+/*  background-color: #EEE;*/
+/*  border-radius: 5px;*/
+/*}*/
+
+/*h1 {*/
+/*  color: #333;*/
+/*  font-size: 30px;*/
+/*  font-weight: bold;*/
+/*  margin-bottom: 20px;*/
+/*}*/
+
+
+body {
+  background-color: #F8F8F8;
+  font-family: Arial, sans-serif;
+}
+
+.countdown-timer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.countdown-clock {
+  display: inline-block;
+  background-color: #FFF;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #BBB;
+}
+
+.countdown-clock span {
+  font-size: 40px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 10px;
+  background-color: #EEE;
+  border-radius: 5px;
+}
+
+h1 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-shadow: 10px 10px 10px #000;
+}
+
+.falafel-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
